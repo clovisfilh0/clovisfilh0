@@ -1,4 +1,4 @@
-## Hi there! I'm [Seu Nome] 👋
+## Hi there! I'm [Clóvis Filho] 👋
 
 I'm a **Systems Analysis and Development Student** passionate about Front-End technologies. Currently building responsive websites and improving my skills in UI development.
 
@@ -16,4 +16,4 @@ I'm a **Systems Analysis and Development Student** passionate about Front-End te
 * [LinkedIn](www.linkedin.com/in/clóvis-filho-b3aa06345)
 * [📂 My Projects (GitHub)](https://github.com/clovisfilh0?tab=repositories)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?clovisfilh0&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clovisfilh0&show_icons=true&theme=radical)
