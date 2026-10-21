@@ -21,7 +21,7 @@ Sou **estudante de Análise e Desenvolvimento de Sistemas (3º período)** na Gr
 
 ### 🚀 Projetos em Destaque
 
-* **[DocIntelligence AI](https://github.com/clovisfilh0/DocIntelligence-AI)**: Plataforma de Inteligência Documental baseada em RAG (*Retrieval-Augmented Generation*). Permite conversar em tempo real com PDFs corporativos utilizando **Google Gemini (`gemini-3.8-flash`)**, LangChain e ChromaDB, com isolamento seguro de sessões e proteção de chaves de API.
+* **[DocIntelligence AI](https://github.com/clovisfilh0/doc-intelligence-ai)**: Plataforma de Inteligência Documental baseada em RAG (*Retrieval-Augmented Generation*). Permite conversar em tempo real com PDFs corporativos utilizando **Google Gemini (`gemini-3.8-flash`)**, LangChain e ChromaDB, com isolamento seguro de sessões e proteção de chaves de API.
 * **Análise de Churn Rate (Python)**: Análise exploratória e tratamento de mais de 800 mil registros utilizando Pandas, Plotly Express e Jupyter Notebook para identificar causas de cancelamento de clientes.
 * **Automação de Processos (Python)**: Scripts desenvolvidos com PyAutoGUI e Pandas para leitura de bases CSV e cadastros automatizados em sistemas web.
 
