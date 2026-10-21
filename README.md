@@ -1,29 +1,29 @@
 # Olá, eu sou o Clóvis Filho! 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Em_Transição_de_Carreira-blue?style=for-the-badge&logo=git" alt="Status" />
-  <img src="https://img.shields.io/badge/Foco-IA_Generativa_%7C_Python_%7C_Dados-green?style=for-the-badge&logo=python" alt="Foco" />
+  <img src="https://img.shields.io/badge/Status-Em%20Transição%20de%20Carreira-blue?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Foco-IA%20Generativa%20%7C%20Python%20%7C%20Dados-green?style=for-the-badge" alt="Foco" />
 </p>
 
-Sou **estudante de Análise e Desenvolvimento de Sistemas (3º período)** na Gran Faculdade[cite: 3] e estou em **transição de carreira**, unindo uma bagagem sólida de mais de 10 anos em rotinas operacionais e gestão de dados corporativos com o desenvolvimento de software moderno[cite: 3]. Acredito que a melhor forma de aprender é construindo soluções reais que unem lógica, dados e Inteligência Artificial.
+Sou **estudante de Análise e Desenvolvimento de Sistemas (3º período)** na Gran Faculdade e estou em **transição de carreira**, unindo uma bagagem sólida de mais de 10 anos em rotinas operacionais e gestão de dados corporativos com o desenvolvimento de software moderno. Acredito que a melhor forma de aprender é construindo soluções reais que unem lógica, dados e Inteligência Artificial.
 
 ---
 
 ### 🛠️ Minha Stack Tecnológica
 
-* **Linguagens:** Python, JavaScript, SQL[cite: 3]
-* **IA & LLMs:** Google Gemini, LangChain, HuggingFace, ChromaDB, Engenharia de Prompts, RAG & Workflows[cite: 3]
-* **Desenvolvimento Web & Apps:** Streamlit, HTML5/CSS3[cite: 3]
-* **Análise de Dados & Automação:** Pandas, Plotly, PyAutoGUI, Power Query, ETL[cite: 3]
-* **Ferramentas:** Git, GitHub, VS Code, Microsoft Copilot[cite: 3]
+* **Linguagens:** Python, JavaScript, SQL
+* **IA & LLMs:** Google Gemini, LangChain, HuggingFace, ChromaDB, Engenharia de Prompts, RAG & Workflows
+* **Desenvolvimento Web & Apps:** Streamlit, HTML5/CSS3
+* **Análise de Dados & Automação:** Pandas, Plotly, PyAutoGUI, Power Query, ETL
+* **Ferramentas:** Git, GitHub, VS Code, Microsoft Copilot
 
 ---
 
 ### 🚀 Projetos em Destaque
 
 * **[DocIntelligence AI](https://github.com/clovisfilh0/DocIntelligence-AI)**: Plataforma de Inteligência Documental baseada em RAG (*Retrieval-Augmented Generation*). Permite conversar em tempo real com PDFs corporativos utilizando **Google Gemini (`gemini-3.8-flash`)**, LangChain e ChromaDB, com isolamento seguro de sessões e proteção de chaves de API.
-* **Análise de Churn Rate (Python)**: Análise exploratória e tratamento de mais de 800 mil registros utilizando Pandas, Plotly Express e Jupyter Notebook para identificar causas de cancelamento de clientes[cite: 3].
-* **Automação de Processos (Python)**: Scripts desenvolvidos com PyAutoGUI e Pandas para leitura de bases CSV e cadastros automatizados em sistemas web[cite: 3].
+* **Análise de Churn Rate (Python)**: Análise exploratória e tratamento de mais de 800 mil registros utilizando Pandas, Plotly Express e Jupyter Notebook para identificar causas de cancelamento de clientes.
+* **Automação de Processos (Python)**: Scripts desenvolvidos com PyAutoGUI e Pandas para leitura de bases CSV e cadastros automatizados em sistemas web.
 
 ---
 
@@ -38,7 +38,7 @@ Sou **estudante de Análise e Desenvolvimento de Sistemas (3º período)** na Gr
 
 ### 📫 Vamos nos conectar?
 
-* 💼 **LinkedIn:** [linkedin.com/in/clóvis-filho-b3aa06345](https://www.linkedin.com/in/clóvis-filho-b3aa06345)[cite: 3]
-* ✉️ **E-mail:** clovisfilho@live.com[cite: 3]
+* 💼 **LinkedIn:** [linkedin.com/in/clóvis-filho-b3aa06345](https://www.linkedin.com/in/clóvis-filho-b3aa06345)
+* ✉️ **E-mail:** clovisfilho@live.com
 
-> *"A melhor forma de aprender é construindo."* 💡
+> *"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer" — Aristóteles* 💡
